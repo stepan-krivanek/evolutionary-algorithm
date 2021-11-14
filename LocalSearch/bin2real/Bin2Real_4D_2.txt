@@ -1,0 +1,35 @@
+# Binary to real test data, 2D, interval from (0,-4,-4,-8) to (7,3,4,0)
+0 : The binary vector length is not divisible by the dimensionality of the target vector space.
+1 : The binary vector length is not divisible by the dimensionality of the target vector space.
+0 0 : The binary vector length is not divisible by the dimensionality of the target vector space.
+0 1 : The binary vector length is not divisible by the dimensionality of the target vector space.
+1 0 : The binary vector length is not divisible by the dimensionality of the target vector space.
+1 1 : The binary vector length is not divisible by the dimensionality of the target vector space.
+0 0 0 : The binary vector length is not divisible by the dimensionality of the target vector space.
+0 0 1 : The binary vector length is not divisible by the dimensionality of the target vector space.
+0 1 0 : The binary vector length is not divisible by the dimensionality of the target vector space.
+0 1 1 : The binary vector length is not divisible by the dimensionality of the target vector space.
+1 0 0 : The binary vector length is not divisible by the dimensionality of the target vector space.
+1 0 1 : The binary vector length is not divisible by the dimensionality of the target vector space.
+1 1 0 : The binary vector length is not divisible by the dimensionality of the target vector space.
+1 1 1 : The binary vector length is not divisible by the dimensionality of the target vector space.
+0 0 0 0 0 0 0 0 0 0 0 0 : [0.0, -4.0, -4.0, -8.0]
+1 1 1 1 1 1 1 1 1 1 1 1 : [7.0, 3.0, 4.0, 0.0]
+0 0 0 0 0 0 0 0 0 0 0 1 : [0.0, -4.0, -4.0, -6.857142857142858]
+0 1 1 1 1 1 1 1 1 1 1 1 : [3.0, 3.0, 4.0, 0.0]
+1 0 0 0 0 0 0 0 0 0 0 0 : [4.0, -4.0, -4.0, -8.0]
+1 1 1 1 1 1 1 1 1 1 1 0 : [7.0, 3.0, 4.0, -1.1428571428571432]
+0 0 0 0 0 1 0 0 0 0 0 1 : [0.0, -3.0, -4.0, -6.857142857142858]
+0 1 1 1 1 1 0 1 1 1 1 1 : [3.0, 3.0, -0.5714285714285716, 0.0]
+1 0 0 0 0 0 1 0 0 0 0 0 : [4.0, -4.0, 0.5714285714285712, -8.0]
+1 1 1 1 1 0 1 1 1 1 1 0 : [7.0, 2.0, 4.0, -1.1428571428571432]
+0 0 0 1 0 0 0 1 0 0 0 1 : [0.0, 0.0, -1.7142857142857144, -6.857142857142858]
+0 1 1 1 0 1 1 1 0 1 1 1 : [3.0, 1.0, 2.8571428571428568, 0.0]
+1 0 0 0 1 0 0 0 1 0 0 0 : [4.0, -2.0, -2.857142857142857, -8.0]
+1 1 1 0 1 1 1 0 1 1 1 0 : [7.0, -1.0, 1.7142857142857144, -1.1428571428571432]
+0 0 1 0 0 1 0 0 1 0 0 1 : [1.0, -3.0, -2.857142857142857, -6.857142857142858]
+0 1 1 0 1 1 0 1 1 0 1 1 : [3.0, -1.0, -0.5714285714285716, -4.571428571428571]
+1 0 0 1 0 0 1 0 0 1 0 0 : [4.0, 0.0, 0.5714285714285712, -3.428571428571429]
+1 1 0 1 1 0 1 1 0 1 1 0 : [6.0, 2.0, 2.8571428571428568, -1.1428571428571432]
+0 1 0 1 0 1 0 1 0 1 0 1 : [2.0, 1.0, -1.7142857142857144, -2.2857142857142856]
+1 0 1 0 1 0 1 0 1 0 1 0 : [5.0, -2.0, 1.7142857142857144, -5.714285714285714]

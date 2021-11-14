@@ -1,0 +1,35 @@
+# Binary to real test data, 2D, interval from (0,0) to (1,1)
+0 : The binary vector length is not divisible by the dimensionality of the target vector space.
+1 : The binary vector length is not divisible by the dimensionality of the target vector space.
+0 0 : [0.0, 0.0]
+0 1 : [0.0, 1.0]
+1 0 : [1.0, 0.0]
+1 1 : [1.0, 1.0]
+0 0 0 : The binary vector length is not divisible by the dimensionality of the target vector space.
+0 0 1 : The binary vector length is not divisible by the dimensionality of the target vector space.
+0 1 0 : The binary vector length is not divisible by the dimensionality of the target vector space.
+0 1 1 : The binary vector length is not divisible by the dimensionality of the target vector space.
+1 0 0 : The binary vector length is not divisible by the dimensionality of the target vector space.
+1 0 1 : The binary vector length is not divisible by the dimensionality of the target vector space.
+1 1 0 : The binary vector length is not divisible by the dimensionality of the target vector space.
+1 1 1 : The binary vector length is not divisible by the dimensionality of the target vector space.
+0 0 0 0 0 0 0 0 0 0 0 0 : [0.0, 0.0]
+1 1 1 1 1 1 1 1 1 1 1 1 : [1.0, 1.0]
+0 0 0 0 0 0 0 0 0 0 0 1 : [0.0, 0.015873015873015872]
+0 1 1 1 1 1 1 1 1 1 1 1 : [0.49206349206349204, 1.0]
+1 0 0 0 0 0 0 0 0 0 0 0 : [0.5079365079365079, 0.0]
+1 1 1 1 1 1 1 1 1 1 1 0 : [1.0, 0.9841269841269841]
+0 0 0 0 0 1 0 0 0 0 0 1 : [0.015873015873015872, 0.015873015873015872]
+0 1 1 1 1 1 0 1 1 1 1 1 : [0.49206349206349204, 0.49206349206349204]
+1 0 0 0 0 0 1 0 0 0 0 0 : [0.5079365079365079, 0.5079365079365079]
+1 1 1 1 1 0 1 1 1 1 1 0 : [0.9841269841269841, 0.9841269841269841]
+0 0 0 1 0 0 0 1 0 0 0 1 : [0.06349206349206349, 0.2698412698412698]
+0 1 1 1 0 1 1 1 0 1 1 1 : [0.4603174603174603, 0.873015873015873]
+1 0 0 0 1 0 0 0 1 0 0 0 : [0.5396825396825397, 0.12698412698412698]
+1 1 1 0 1 1 1 0 1 1 1 0 : [0.9365079365079365, 0.7301587301587301]
+0 0 1 0 0 1 0 0 1 0 0 1 : [0.14285714285714285, 0.14285714285714285]
+0 1 1 0 1 1 0 1 1 0 1 1 : [0.42857142857142855, 0.42857142857142855]
+1 0 0 1 0 0 1 0 0 1 0 0 : [0.5714285714285714, 0.5714285714285714]
+1 1 0 1 1 0 1 1 0 1 1 0 : [0.8571428571428571, 0.8571428571428571]
+0 1 0 1 0 1 0 1 0 1 0 1 : [0.3333333333333333, 0.3333333333333333]
+1 0 1 0 1 0 1 0 1 0 1 0 : [0.6666666666666666, 0.6666666666666666]
